@@ -1,0 +1,105 @@
+body
+{
+    background-image:url('wall.jpg');   
+    font-family:Arial;
+    font-size:30px;
+    font-weight:bold;
+    color:#ffff99;
+}
+span.jaemzware
+{    
+    font-size:80px;
+}
+div.links
+{
+    font-style:normal;
+    font-family:Arial;
+    position:absolute;
+    padding-top:10px;
+    padding-left:10px; 
+    padding-right:10px;
+    background-color:#ffff99;
+    top:110px;
+    left:10px;
+    width:300px;
+    height:400px;   
+}
+div.description
+{
+    font-style:normal;
+    font-family:Arial;
+    position:absolute;
+    padding-top:10px;
+    padding-left:10px; 
+    padding-right:10px;
+    font-size:20px;
+    background-color:#000066;
+    color:#ffff99;
+    text-align:left;
+    top:110px;
+    left:370px;
+    width:540px;
+    height:400px;
+}
+div.footer
+{
+    font-style:normal;
+    font-family:Arial;
+    position:absolute;
+    padding-left:10px; 
+    padding-right:10px;
+    color:#ffff99;
+    font-weight:bold;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-size:15px;
+    top:535px;
+    left:10px;
+    width:895px;
+    border-style:outset;
+    border-width:3px;
+}
+div.flash
+{
+    position:absolute;
+    color:#ffff99;
+    position:absolute;
+    top:585px;
+    border-style:outset;
+    border-width:3px;
+        
+}
+div.links a
+{
+    font-size:30px;
+    font-weight:bold;
+    color:#000066;
+    /*take away underline*/
+    text-decoration:none;   
+}
+
+div.links a:hover
+{
+    color:#9999cc;
+}
+
+div.detailsimage
+{
+    width:950px;
+    overflow:hidden;   
+}
+
+a.subtitle
+{
+    font-size:30px;
+    font-weight:bold;
+    color:#000066;
+    /*take away underline*/
+    text-decoration:none;  
+    
+}
+
+a.subtitle:hover
+{
+    color:#9999cc;    
+}
