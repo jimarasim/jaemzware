@@ -10,6 +10,11 @@ span.jaemzware
 {    
     font-size:80px;
 }
+span.jaemzware a
+{
+	color:#ffff99;
+	text-decoration:none; 
+}
 div.links
 {
     font-style:normal;

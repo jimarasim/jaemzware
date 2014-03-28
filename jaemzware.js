@@ -168,9 +168,17 @@ function drawpage() {
         photosarray["cellphoto_aspspider.jpg"] = "Cell Photo Presentation (ASPX Implementation)";
     }
     else if (locationstring.search("threeskulls") > -1) {
-        document.write("<a class='subtitle' href='http://threeskullsales.com' target='_blank'>Three Skulls</a>");
+        document.write("<h1>Three Skulls</h1>");
         photosarray["threeskulls_eventfeed.jpg"] = "Events Feed (div with scrollbar)";
         photosarray["threeskulls_admin.jpg"] = "Events Administration";
+    }
+	else if (locationstring.search("digitease") > -1) {
+        document.write("<h1>Digitease</h1>");
+        photosarray["digitease.jpeg"] = "Digitease iOS app";
+    }
+    else if (locationstring.search("couchgame") > -1) {
+        document.write("<h1>Couch Game</h1>");
+        photosarray["couchgame.jpeg"] = "Couch Game iOS app";
     }
     else {
         document.write("no match");
