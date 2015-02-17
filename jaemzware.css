@@ -1,23 +1,23 @@
 
 /* unvisited link */
-a.ghostlink:link {
+a:link {
     color: white;
     text-decoration:none;
 }
 
 /* visited link */
-a.ghostlink:visited {
+a:visited {
     color: white;
 }
 
 /* mouse over link */
-a.ghostlink:hover {
+a:hover {
     color: white;
     text-decoration: underline;
 }
 
 /* selected link */
-a.ghostlink:active {
+a:active {
     color: white;
     text-decoration: underline;
 }
@@ -26,7 +26,7 @@ body
 {
     background-image:url('wall.jpg');
     font-size:xx-large;
-    color:whitesmoke;
+    color:yellow;
 }
 
 
@@ -43,7 +43,7 @@ embed.objectstyle{
     height:100%;
 }
 
-ul > li > a {
+ul {
     list-style-type:none;
 }
 
