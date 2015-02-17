@@ -14,8 +14,11 @@ div.flash
 
 body
 {
-    background-image:url('wall.jpg');   
+    background-image:url('wall.jpg');
+    font-size:large;
 }
+
+
 
 
 /* unvisited link */
