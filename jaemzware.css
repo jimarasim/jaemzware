@@ -23,23 +23,23 @@ body
 
 /* unvisited link */
 a.ghostlink:link {
-    color: #777777;
+    color: #cccccc;
     text-decoration:none;
 }
 
 /* visited link */
 a.ghostlink:visited {
-    color: 777777;
+    color: #cccccc;
 }
 
 /* mouse over link */
 a.ghostlink:hover {
-    color: #777777;
+    color: #cccccc;
     text-decoration: underline;
 }
 
 /* selected link */
 a.ghostlink:active {
-    color: #777777;
+    color: #cccccc;
     text-decoration: underline;
 }
