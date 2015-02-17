@@ -15,7 +15,8 @@ div.flash
 body
 {
     background-image:url('wall.jpg');
-    font-size:large;
+    font-size:xx-large;
+    color:whitesmoke;
 }
 
 
@@ -23,23 +24,23 @@ body
 
 /* unvisited link */
 a.ghostlink:link {
-    color: #cccccc;
+    color: white;
     text-decoration:none;
 }
 
 /* visited link */
 a.ghostlink:visited {
-    color: #cccccc;
+    color: white;
 }
 
 /* mouse over link */
 a.ghostlink:hover {
-    color: #cccccc;
+    color: white;
     text-decoration: underline;
 }
 
 /* selected link */
 a.ghostlink:active {
-    color: #cccccc;
+    color: white;
     text-decoration: underline;
 }
