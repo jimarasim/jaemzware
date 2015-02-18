@@ -64,6 +64,9 @@ function MultiVideoJquery(multiGroup){
         if(multiGroup[i]==="jaemzwarevideotennis20150212"){
             filePathsNoExtensionArray = jaemzwarevideotennis20150212;
         }
+        else if(multiGroup[i]==="jaemzwarevideobabysessions"){
+            filePathsNoExtensionArray = jaemzwarevideobabysessions;
+        }
         else{
             console.log("error: unexpected group");
             
