@@ -3,32 +3,25 @@ document.addEventListener('DOMContentLoaded', function () {
                           SetupEvents();
                           });
 
+var videoPlayerWidth="640";
+var videoPlayerHeight="480";
 
 function SetupEvents(){
-    //OLD JQUERY - ONE VIDEO
-    if($('#jaemzware-video').length>0){
-        
-        var group = $('#jaemzware-video').attr('name');
-        
-        WriteVideoPlayerJquery(group);
-    }
     
-    //NEW JQUERY - MULTIPLE VIDEOS
-    //if there are jaemzware-video ids
+    //INSERT VIDEOS
     if($('span[id*="jaemzwarevideo"]').length>0){
         
         
         //get all the video ids
-        
         var multiGroup=[];
         $('span[id*="jaemzwarevideo"]').each(function(index, element){
                                              multiGroup[index]=$(element).attr('id');
                                              });
         
-        
-        
         MultiVideoJquery(multiGroup);
     }
+    
+    
     
 }
 
@@ -70,7 +63,7 @@ function MultiVideoJquery(multiGroup){
         if(filePathsNoExtensionArray.length>0)
         {
             //write the video player
-            $("#"+multiGroup[i]).after("<video style='width: 100%;' controls='controls' preload='metadata' poster='"+filePathsNoExtensionArray[0][0]+".png' title='"+filePathsNoExtensionArray[0][1]+"' id='"+multiGroup[i]+"Video'>browser doesn't support video</video>");
+            $("#"+multiGroup[i]).after("<video width='"+videoPlayerWidth+"' height='"+videoPlayerHeight+"' controls='controls' preload='metadata' poster='"+filePathsNoExtensionArray[0][0]+".png' title='"+filePathsNoExtensionArray[0][1]+"' id='"+multiGroup[i]+"Video'>browser doesn't support video</video>");
             
             
             console.log('CHECK VIDEO PLAYER');
