@@ -1,3 +1,37 @@
+/* put in themes js folder */
+document.addEventListener('DOMContentLoaded', function () {
+                          SetupEvents();
+                          });
+
+
+function SetupEvents(){
+    //OLD JQUERY - ONE VIDEO
+    if($('#jaemzware-video').length>0){
+        
+        var group = $('#jaemzware-video').attr('name');
+        
+        WriteVideoPlayerJquery(group);
+    }
+    
+    //NEW JQUERY - MULTIPLE VIDEOS
+    //if there are jaemzware-video ids
+    if($('span[id*="jaemzwarevideo"]').length>0){
+        
+        
+        //get all the video ids
+        
+        var multiGroup=[];
+        $('span[id*="jaemzwarevideo"]').each(function(index, element){
+                                             multiGroup[index]=$(element).attr('id');
+                                             });
+        
+        
+        
+        MultiVideoJquery(multiGroup);
+    }
+    
+}
+
 var jaemzwarevideotennis20150212 = [
                                     ["https://blackmarketskates.com/media/tenniscourts/tompeha-tenniscourts-20150212","Tom Peha"],
                                     ["https://blackmarketskates.com/media/tenniscourts/jimarasim-tenniscourts-20150212","Jim"],
