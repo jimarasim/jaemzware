@@ -1,6 +1,33 @@
-embed.objectstyle{
-    width:100%;
-    height:100%;
+
+/* unvisited link */
+a:link {
+    color: white;
+    text-decoration:underline;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+    text-decoration:underline;
+}
+
+/* mouse over link */
+a:hover {
+    color: lightblue;
+    text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: white;
+    text-decoration: underline;
+}
+
+body
+{
+    background-image:url('wall.jpg');
+    font-size:xx-large;
+    color:yellow;
 }
 
 
@@ -9,10 +36,20 @@ div.flash
     margin-left: auto;
     margin-right: auto;
     width: 70%;
-    height: 70%;
+    height: 40%;
 }
 
-body
-{
-    background-image:url('wall.jpg');   
+embed.objectstyle{
+    width:100%;
+    height:100%;
 }
+
+img {
+/*    float:left;*/
+}
+
+ul {
+    list-style-type:none;
+}
+
+
