@@ -25,6 +25,20 @@ function SetupEvents(){
     
 }
 
+var jaemzwarevideobabysessions = [["media/babysessions/truevaluesession1","Baby Session 01"],
+                                  ["media/babysessions/truevaluesession2","Baby Session 02"],
+                                  ["media/babysessions/truevaluesession3","Baby Session 03"],
+                                  ["media/babysessions/truevaluesession4","Baby Session 04"],
+                                  ["media/babysessions/truevaluesession5","Baby Session 05"],
+                                  ["media/babysessions/truevaluesession6","Baby Session 06"],
+                                  ["media/babysessions/truevaluesession7","Baby Session 07"],
+                                  ["media/babysessions/truevaluesession9","Baby Session 09"],
+                                  ["media/babysessions/truevaluesession10ObstacleTireSession","Baby Session Obstacle!"],
+                                  ["media/babysessions/truevaluesession11ShrineOfShit","Baby Session Shrine of Shit"],
+                                  ["media/babysessions/truevaluesession12","Baby Session 12"],
+                                  ["media/babysessions/truevaluesession13windingdown","Baby Session Winding Down I"],
+                                  ["media/babysessions/truevaluesession14windingdown","Baby Session Winding Down II"],
+];
 var jaemzwarevideotennis20150212 = [
                                     ["https://blackmarketskates.com/media/tenniscourts/tompeha-tenniscourts-20150212","Tom Peha"],
                                     ["https://blackmarketskates.com/media/tenniscourts/jimarasim-tenniscourts-20150212","Jim"],
