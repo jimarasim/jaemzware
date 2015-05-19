@@ -44,6 +44,11 @@ embed.objectstyle{
     height:100%;
 }
 
+h2
+{
+	color:gray;
+}
+
 img {
 /*    float:left;*/
 }
