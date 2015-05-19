@@ -1,3 +1,9 @@
 /nbproject/private/
 analogarchive
 media
+jenkinsArtifacts/*.png
+jenkinsArtifacts/*.jpg
+jenkinsArtifacts/*.mp3
+jenkinsArtifacts/*.gif
+jenkinsArtifacts/*.jpeg
+
