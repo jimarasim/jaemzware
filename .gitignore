@@ -1,12 +1,4 @@
-jaemzware
+jaemzwareArtifacts
 /nbproject/private/
 analogarchive
 media
-jenkinsArtifacts/*.png
-jenkinsArtifacts/*.jpg
-jenkinsArtifacts/*.mp3
-jenkinsArtifacts/*.gif
-jenkinsArtifacts/*.jpeg
-jenkinsArtifacts/*board*.htm
-jenkinsArtifacts/*Board*.htm
-jenkinsArtifacts/*VerifyLogos*.htm
