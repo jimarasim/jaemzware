@@ -1,4 +1,8 @@
-jaemzwareArtifacts
+jaemzwareArtifacts/*.png
+jaemzwareArtifacts/*.jpg
+jaemzwareArtifacts/*.jpeg
+jaemzwareArtifacts/*.gif
+jaemzwareArtifacts/*.mp3
 /nbproject/private/
 analogarchive
 media
