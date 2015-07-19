@@ -27,7 +27,7 @@ body
 {
     background-image:url('wall.jpg');
     font-size:xx-large;
-    color:yellow;
+    color:blue;
 }
 
 
@@ -44,10 +44,7 @@ embed.objectstyle{
     height:100%;
 }
 
-h2
-{
-	color:gray;
-}
+
 
 img {
 /*    float:left;*/
