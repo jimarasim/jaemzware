@@ -40,4 +40,9 @@ ul {
     list-style-type:none;
 }
 
+td{
+    text-align:left;
+    vertical-align:top;
+}
+
 
