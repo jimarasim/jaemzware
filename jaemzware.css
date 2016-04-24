@@ -29,7 +29,7 @@ p{
 
 body
 {
-    background-image:url('wall.jpg');
+    /*background-image:url('wall.jpg');*/
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
