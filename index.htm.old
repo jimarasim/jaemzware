@@ -1,0 +1,145 @@
+<html>
+<head>
+<title>jaemzware</title>
+<link rel="Stylesheet" href="jaemzware.css" />
+<link rel="Shortcut Icon" href="jaemzware.ico" />
+<script type="text/javascript" src="jaemzware.js"></script>
+</head>
+<body>
+<h1>jaemzware</h1>
+<h3>software engineering research, consulting, training and development</h3>
+<table>
+    <tr>
+        <td>
+            <p>ios, swift</p>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://itunes.apple.com/us/app/skatecreteordie/id1099516729?ls=1&mt=8">skatecreteordie</a><br />
+                    <a href="http://www.skatecreteordie.com">skatecreteordie.com</a>
+<p>skatecreteordie is a skatepark locator map for world class, concrete skateparks. black pins represent world class parks based on quality of construction and/or design, gray pins represent other parks, and yellow pins represent parks with lights, regardless of quality.
+</p>  
+
+<p>tap a pin to see its name, then tap the details button in the bottom tab bar to see additional information and photos.
+</p>
+
+<p>photos can be zoomed and panned. tap the photo to download and view the next.  each park has at least 2 photos.
+</p>
+
+
+<p>this app can be run without an internet connection; however, photos will not appear, unless they have been downloaded beforehand and the app has not closed.
+</p>
+
+<p>not every skatepark is shown on this map. only concrete parks. the only exception are wood ramp parks that are covered and have lights.re will also be more photos and descriptions.</p>
+</p>
+                </li>
+                <li>
+                    <a href="mailto:jim@jaemzware.com?Subject=skatecreteordie%20support">email support and feedback</a>
+                </li>
+                <li>
+                    <table>
+                        <tr><td>
+                            <img alt="skatecreteordie park map screenshot" src="http://seattlerules.com/media/skatecreteordie/map.png" />
+                            </td><td>
+                            <img alt="skatecreteordie map annotation screenshot" src="http://seattlerules.com/media/skatecreteordie/annotation.png" />
+                            </td><td>
+                            <img alt="skatecreteordie park details screenshot" src="https://seattlerules.com/media/skatecreteordie/details.png" />
+                        </td></tr>
+                    </table>
+                </li>     
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>node.js [socket.io, express], javascript, jquery, html5</p>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="http://seattlenative.org">seattlenative.org</a>
+                </li>
+                <li>
+                    <a href="http://skatecreteordie.com:3005/skatecreteordie">skatecreteordie</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <p>chrome extension, javascript</p>
+        </td>
+        <td>
+            <ul>
+                <li>                        
+                    <a href="https://seattlerules.com/geturls/">Get Urls [chrome browser tab accessible meta-data]</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>php, javascript, jquery, html5</p>
+        </td>
+        <td>
+            <ul>
+                <li>                                    
+                    <a href="http://analogarchive.com/">analogarchive.com [mp3 repository with id3 tag reader and playlist feature]</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>ios, objective c</p>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://itunes.apple.com/us/app/couch-game/id775551900?mt=8">Couch Game [80s style arcade game]</a>
+                </li>      
+                <li>
+                    <a href="https://itunes.apple.com/ms/app/digitease/id733163207?mt=8">Digitease [phone number letter combinations]</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>wordpress, woocommerce, javascript, jquery, html5</p>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://seattlerules.com">seattlerules.com [personal blog]</a>
+                </li>
+            </ul>    </tr>
+    
+    <tr>
+        <td>
+            <p>domains</p>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="http://analogarchive.com">analogarchive.com</a>
+                </li>
+                <li>
+                    <a href="http://jaemzware.com">jaemzware.com</a>
+                </li>
+                <li>
+                    <a href="https://seattlerules.com">seattlerules.com</a>
+                </li>  
+                <li>
+                    <a href="http://seattlenative.org">seattlenative.org</a>
+                </li>
+                <li>
+                    <a href="http://jaemzware.org">jaemzware.org</a>
+                </li> 
+            </ul>    
+    </tr>
+</table>
+</body>
+</html>
