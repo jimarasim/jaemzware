@@ -1,30 +1,37 @@
-
+span {
+    font-size: 50px;
+}
 /* unvisited link */
 a:link {
     color: white;
     text-decoration:underline;
+    font-size: 30px;
 }
 
 /* visited link */
 a:visited {
     color: white;
     text-decoration:underline;
+    font-size: 30px;
 }
 
 /* mouse over link */
 a:hover {
     color: lightblue;
     text-decoration: underline;
+    font-size: 30px;
 }
 
 /* selected link */
 a:active {
     color: white;
     text-decoration: underline;
+    font-size: 30px;
 }
 
 p{
     color:white;
+    font-size: 30px;
 }
 
 body
@@ -34,11 +41,9 @@ body
     background-attachment: fixed;
     background-position: center;
     background-color:darkslateblue;
-    font-size:xx-large;
     color:lightgreen;
+    font-size: 30px;
 }
-
-
 
 ul {
     list-style-type:none;
